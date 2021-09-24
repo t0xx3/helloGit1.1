@@ -1,2 +1,2 @@
 # helloGit1.1
-Hello
+im learn git ^^
